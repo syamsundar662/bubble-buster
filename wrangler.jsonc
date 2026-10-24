@@ -1,0 +1,9 @@
+{
+  "name": "bubble-buster",
+  "compatibility_date": "2026-10-01",
+  // Static site, no Worker script: index.html and its files are served from the repo root.
+  // .assetsignore keeps the repo files that aren't part of the site out of the upload.
+  "assets": {
+    "directory": "."
+  }
+}
