@@ -1,6 +1,9 @@
 .git
 .gitignore
+.claude
 .wrangler
+.DS_Store
+.env*
 node_modules
 wrangler.jsonc
 README.md
